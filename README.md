@@ -1,4 +1,5 @@
-# Khawla
-Baccalaureus degree in database
-Database interest 
-Oman, Nizwa
+- 👋 Hi, I’m @KhawlaAlSaifi
+- 👀 I’m interested in database
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on programing
+- 📫 How to reach me? back to contact details
